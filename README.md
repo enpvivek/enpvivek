@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vivek Yadav
 ===================================================================================================================================
 
-Software Developer
+💫 Software Developer
 ------------------
 
 * 🌍  I'm based in New Delhi.
@@ -13,7 +13,7 @@ Software Developer
 * ⚡  I'm secretly Spiderman... but don't tell anyone.
 <br>
 
-## Skills
+## 💻 Skills
 <p align="left">
 
 > #### Core
@@ -36,7 +36,7 @@ Software Developer
 
 <br>
 
-## Badges
+## 🏆 Badges
 
 <b>My GitHub Stats</b>
 
@@ -52,7 +52,7 @@ Software Developer
 
 
 
-## Support Me
+## 💰 Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
