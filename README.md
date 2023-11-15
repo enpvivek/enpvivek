@@ -40,8 +40,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-![](https://github-readme-stats.vercel.app/api?username=enpvivek&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=enpvivek&theme=blue-green&hide_border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=enpvivek&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enpvivek&theme=blue-green&hide_border=false" alt="GitHub Streak" width="400">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enpvivek&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
