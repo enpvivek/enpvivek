@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in New Delhi.
 * 🖥️  See my portfolio at [My Portfolio.](http://xyc)
-* ✉️  You can contact me at [Email](mailto:mailto:enpvivek@gmail.com)
+* ✉️  You can contact me at [Email.](mailto:enpvivek@gmail.com)
 * 🚀  I'm currently working on [Research based Machine Learning Project.](http://github.com/enpvivek)
 * 🧠  I'm learning Data structures in Python and Machine Learning.
 * 🤝  I'm open to collaborating on Open Source projects on Frontend and Machine Learning.
