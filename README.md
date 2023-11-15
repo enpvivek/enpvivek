@@ -50,10 +50,8 @@ Software Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/enpvivek/Resilient-Response" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=enpvivek&repo=Resilient-Response&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/enpvivek/freshcart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=enpvivek&repo=freshcart&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<img src="https://github.com/enpvivek/enpvivek/blob/main/assets/snake.svg" width="36" height="36" alt="commits" />
 
-<div width="100%" align="center"><a href="https://github.com/enpvivek/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=enpvivek&repo=leetcode&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/enpvivek/TradeTheEvent" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=enpvivek&repo=TradeTheEvent&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
 
 ## Support Me
 
