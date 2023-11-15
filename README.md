@@ -50,7 +50,7 @@ Software Developer
 
 <b>Top Repositories</b>
 
-<img src="https://github.com/enpvivek/enpvivek/blob/main/assets/snake.svg" width="36" height="36" alt="commits" />
+<img src="https://github.com/enpvivek/enpvivek/blob/main/assets/snake.svg"  alt="commits" />
 
 
 ## Support Me
