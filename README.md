@@ -40,10 +40,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=enpvivek&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="350">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enpvivek&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="350">
+![](https://github-readme-stats.vercel.app/api?username=enpvivek&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enpvivek&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=enpvivek&theme=blue-green&hide_border=false)<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enpvivek&theme=blue-green&hide_border=false" alt="GitHub Streak">
 
 <a href="https://github.com/enpvivek">
   <kbd style="border: 1px solid white;">
