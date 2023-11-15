@@ -41,12 +41,9 @@ Software Developer
 
 <b>My GitHub Stats</b>
 
-![](https://github-readme-stats.vercel.app/api?username=enpvivek&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=enpvivek&theme=radical&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enpvivek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=enpvivek&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=enpvivek&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enpvivek&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img style="border: .5px solid;" src="https://github.com/enpvivek/enpvivek/blob/main/assets/snake.svg"  alt="commits" />
 
 
