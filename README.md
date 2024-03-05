@@ -5,9 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------
 
 * 🌍  I'm based in New Delhi.
-* 🖥️  See my portfolio at [My Portfolio.](http://xyc)
+* 🖥️  See my portfolio at [My Portfolio.]([http://xyc](https://www.enpvivek.dev/))
 * ✉️  You can contact me via [Email](mailto:enpvivek@gmail.com) or [Telegram.](https://t.me/enpassistbot)
-* 🚀  I'm currently working on [Research based Machine Learning Project.](http://github.com/enpvivek)
+* 🚀  I'm currently working on [Research based Machine Learning Project.](http://github.com/enpvivek/autism-detection-backend)
 * 🧠  I'm learning Data structures in Python and Machine Learning.
 * 🤝  I'm open to collaborating on Open Source projects on Frontend and Machine Learning.
 * ⚡  I'm secretly Spiderman... but don't tell anyone.
